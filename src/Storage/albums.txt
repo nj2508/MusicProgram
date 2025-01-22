@@ -1,0 +1,40 @@
+ALBUM: Rumors
+ARTIST: Fleetwood Mac
+SONGS:
+I Don't Want to Know (3:15)
+Dreams (4:17)
+Never Going Back Again (2:02)
+Don't Stop (3:13)
+Go Your Own Way (3:40)
+Songbird (3:21)
+The Chain (4:30)
+You Make Loving Fun (3:33)
+Second Hand News (2:43)
+Oh Daddy (3:56)
+Gold Dust Woman (4:51)
+END
+
+ALBUM: The Eminem Show
+ARTIST: Eminem
+SONGS:
+Curtains Up - Skit (0:29)
+White America (5:24)
+Business (4:11)
+Cleanin' Out My Closet (4:57)
+Square Dance (5:23)
+The Kiss - Skit (1:15)
+Soldier (3:46)
+Say Goodbye Hollywood (4:32)
+Drips (4:45)
+Without Me (4:50)
+Paul Rosenberg - Skit (0:22)
+Sing For The Moment (5:39)
+Superman (5:50)
+Hailie's Song (5:20)
+Steve Berman - Skit (0:33)
+When The Music Stops (4:29)
+Say What You Say (5:09)
+Till I Collapse (4:57)
+My Dad's Gone Crazy (4:27)
+Curtains Close (1:01)
+END
